@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i>let ভেরিয়েবল এর সাথে define করে তাহলে ওই ভেরিয়েবল এর মান চেঞ্জ করা যায়</i>
 
 </p>
 </details>
